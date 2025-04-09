@@ -2,12 +2,12 @@
 name = "runpod-ollama"
 version = "0.0.1"
 description = ""
-authors = ["Pooya Haratian"]
+authors = ["Govind Diwakar"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/pooyahrtn/RunpodOllama"
-repository = "https://github.com/pooyahrtn/RunpodOllama"
-documentation = "https://github.com/pooyahrtn/RunpodOllama"
+homepage = "https://github.com/SGFGOV/RunpodOllama"
+repository = "https://github.com/SGFGOV/RunpodOllama"
+documentation = "https://github.com/SGFGOV/RunpodOllama"
 
 
 [tool.poetry.dependencies]
